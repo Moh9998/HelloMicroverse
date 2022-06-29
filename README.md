@@ -1,8 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# My First Project 
 
-> Description the project.
+> I'm Finally Doing it 
+
+I Always been affraid of git/github but now i'm committing my first repo
 
 
 ## Built With
