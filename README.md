@@ -1,13 +1,17 @@
-HelloMicroverse 
+HelloMicroverse
 
 My first project with microverse github
 
 Built With
 Major languages
+
 html,css
+
 Frameworks
+
 none
 Technologies used
+
 git/github,linters
 
 
