@@ -10,6 +10,8 @@ html,css
 Frameworks
 
 none
+
+
 Technologies used
 
 git/github,linters
@@ -28,7 +30,7 @@ Authors
 👤 Author1
 
 GitHub: @github/moh9998
-Twitter: @Komhammed166098
+Twitter: @mohammed166098
 
 Contributions, issues, and feature requests are welcome!
 
