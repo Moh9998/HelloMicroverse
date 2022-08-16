@@ -1,24 +1,26 @@
-HelloMicroverse
+#HelloMicroverse
 
-My first project with microverse github
+#My first project with microverse github
 
-Built With
-Major languages
+#Built With
+
+
+#Major languages
 
 html,css
 
-Frameworks
+3Frameworks
 
 none
 
 
-Technologies used
+#Technologies used
 
 git/github,linters
 
 
 
-To get a local copy up and running follow these simple example steps.
+#To get a local copy up and running follow these simple example steps.
 
 Prerequisites
 Setup
@@ -27,7 +29,7 @@ Usage
 Run tests
 Deployment
 Authors
-👤 Author1
+👤 Mohammed Hussain
 
 GitHub: @github/moh9998
 Twitter: @mohammed166098
